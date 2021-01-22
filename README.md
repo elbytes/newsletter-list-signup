@@ -20,5 +20,5 @@ to use you need to create a config.js file in the root:
 
 
 
-set your key as teh value of config in the config.js file  
+set your key as the value of config in the config.js file  
 
